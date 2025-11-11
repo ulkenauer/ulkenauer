@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT worker from 2019. Fullstack. Clean Architecture enthusiast.
+IT worker from 2019. Fullstack. Clean Architecture enthusiast. I have a [Telegram channel](http://t.me/ulkosaurus_hex).
 
 
 # 💻 Tech Stack:
